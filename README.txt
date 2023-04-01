@@ -1,2 +1,2 @@
 This is my personal website.
-![](images/Screenshot.png)
+<img src="midhishareddy.github.io/images/Screenshot.png">
